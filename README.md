@@ -27,30 +27,36 @@ Currently, I am seeking a 6-month final-year internship starting in April 2025 t
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-004C99?style=flat&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-117733?style=flat&logo=seaborn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-32A350?style=flat&logo=nltk&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFC83D?style=flat&logo=huggingface&logoColor=white)
 
 ### Tools
-![Gradio](https://img.shields.io/badge/-Gradio-3E86F4?style=flat&logo=gradio&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+ ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
+
 
 ## 📂 Featured Projects
 
-### [Airborne-TSP-Optimizer](https://github.com/EyaJlassi695/Airborne-TSP-Optimizer)
-A project focusing on optimizing airborne Traveling Salesman Problems to enhance logistics efficiency.
+### ![Groundwater Level Icon](https://img.icons8.com/clouds/48/000000/water.png) Hackathon Challenge: Predicting Ground Water Level
+A collaborative effort to develop a predictive model for groundwater levels, addressing environmental concerns and sustainable water resource management.
 
-### [Autonomous-Car-Pathfinding](https://github.com/EyaJlassi695/Autonomous-Car-Pathfinding)
-An intelligent system for autonomous vehicle navigation using state-of-the-art pathfinding algorithms.
+### ![Insurance Icon](https://img.icons8.com/dusk/48/000000/insurance.png) Kaggle Challenge: Predicting Insurance Premium Amount
+A project aimed at predicting insurance premium amounts by leveraging advanced machine learning models and embedding techniques.
 
-### [RAG Chatbot](https://github.com/[YourUsername]/RAG-Chatbot)
-A Retrieval-Augmented Generation Chatbot leveraging LLMs for accurate and context-aware conversations.
+### ![Credit Portfolio Icon](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-credit-financial-flat-flat-juicy-fish.png) Kaggle Challenge: Predicting Credit Default Portfolios
+Participation in a Kaggle competition focused on predicting credit default risks for financial portfolios.
 
-### Kaggle Challenge: Neural Graph Generation
+### ![Graph Icon](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-graph-miscellaneous-flat-flat-juicy-fish.png) Research Internship: Embedding and Augmenting Heterogeneous Graphs
+Researching and implementing graph embedding and augmentation techniques to improve predictive analytics in complex datasets.
+
+### ![Neural Graph Icon](https://img.icons8.com/fluency/48/000000/network.png) Kaggle Challenge: Neural Graph Generation
 Participation in a Kaggle competition focusing on innovative approaches to graph generation.
 
----
+### ![Path Planning Icon](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-path-planning-infrastructure-soft-fill-soft-fill-juicy-fish.png) Path Planning with Graph Algorithms
+Built an interactive app using Streamlit and Python to calculate optimal trajectories in obstacle-filled environments with Dijkstra’s Algorithm.
 
+---
 ## 🌟 Highlights
 
-- 📊 **Thesis:** Time Series Analysis for Supply Chain Demand Prediction
 - 🏆 **Hackathon Enthusiast:** Regular participant in hackathons to push boundaries and test creative solutions.
+- 🎖️ **Kaggle Competitor:** Ranked among the top 3% in two consecutive competitions.
 - 📚 **Learning:** Constantly improving my knowledge in AWS, PowerBI, and advanced visualization tools.
 - 💬 **Ask Me About:** Data Science, Graph Neural Networks, and AI applications.
 
@@ -58,10 +64,8 @@ Participation in a Kaggle competition focusing on innovative approaches to graph
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
-- 📧 [Email](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eya-jlassi-a0babb216/)
+- 📧 [Email](mailto:eyajlassi2306@gmail.com)
 
 ---
 
