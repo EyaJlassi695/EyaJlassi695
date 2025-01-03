@@ -34,23 +34,33 @@ Currently, I am seeking a 6-month final-year internship starting in April 2025 t
 
 ## 📂 Featured Projects
 
-### ![Groundwater Level Icon](https://img.icons8.com/ios-filled/32/000000/line-chart.png) Hackathon Challenge: Predicting Ground Water Level
+###  Research Internship: Embedding Heterogeneous Graphs For Cloud Services
+**Role:** Intern | **Organization:** Telecom SudParis
+-Implemented various algorithms, including Relation Graph Convolution Network (R-GCN), Heterogeneous Graph Transformer (HGT), and Graph Attention Transformer (GAT).
+-Performing heterogeneous graph data augmentation using graphon.
+
+### ![image](https://github.com/user-attachments/assets/dabd8c71-5706-470b-92c4-1d87fc9ca820) Hackathon Challenge: Predicting Ground Water Level
 A collaborative effort to develop a predictive model for groundwater levels, addressing environmental concerns and sustainable water resource management.
+- Filled the missing values using a sliding window approach.
+- Designed a predictive model for groundwater levels in multiple departments in France using the AutoGluon library with a focus on LightGBM and FastAI models.
+- Fine-tuned the hyperparameters using the Optuna library.
 
-### ![Insurance Icon](https://img.icons8.com/external-flat-juicy-fish/32/000000/external-insurance-financial-services-flat-flat-juicy-fish.png) Kaggle Challenge: Predicting Insurance Premium Amount
-A project aimed at predicting insurance premium amounts by leveraging advanced machine learning models and embedding techniques.
 
-### ![Credit Portfolio Icon](https://img.icons8.com/ios-filled/50/000000/coins.png) Kaggle Challenge: Predicting Credit Default Portfolios
+### ![image](https://github.com/user-attachments/assets/fa4b0055-0b44-418c-80d4-ecbc0ef02c14) Kaggle Challenge: Predicting Insurance Premium Amount
+**Rank:**51/2390
+-A project aimed at predicting insurance premium amounts by leveraging advanced machine learning models and embedding techniques.
+
+### ![image](https://github.com/user-attachments/assets/3782400e-16b5-479a-8447-91aaad9819d0) Kaggle Challenge: Predicting Credit Default Portfolios
 Participation in a Kaggle competition focused on predicting credit default risks for financial portfolios.
+-Performed a data Analysis and statistical tests to determine which variables are more explicative.
+-Train multiple classification models: **XGBOOST**, **LighGBM**, **CatBoost** etc..
 
-### ![Graph Icon](https://img.icons8.com/ios-filled/50/000000/line-chart.png) Research Internship: Embedding and Augmenting Heterogeneous Graphs
-Researching and implementing graph embedding and augmentation techniques to improve predictive analytics in complex datasets.
-
-### ![Neural Graph Icon](https://img.icons8.com/ios-filled/50/000000/network.png) Kaggle Challenge: Neural Graph Generation
+### ![image](https://github.com/user-attachments/assets/fbc920e1-2447-4cd7-896f-6c3f59c5a1e6) Kaggle Challenge: Neural Graph Generation
 Participation in a Kaggle competition focusing on innovative approaches to graph generation.
 
-### ![Path Planning Icon](https://img.icons8.com/ios-filled/50/000000/road.png) Path Planning with Graph Algorithms
-Built an interactive app using Streamlit and Python to calculate optimal trajectories in obstacle-filled environments with Dijkstra’s Algorithm.
+### ![image](https://github.com/user-attachments/assets/d74d88bd-1eee-4a8f-80df-3fc0da2901a9) Path Planning with Graph Algorithms
+-Deploy OpenCv library in python to detect objects.
+-Built an interactive app using C++ and Python to calculate optimal trajectories in obstacle-filled environments with Dijkstra’s Algorithm.
 
 ---
 
