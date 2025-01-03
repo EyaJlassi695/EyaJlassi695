@@ -36,8 +36,8 @@ Currently, I am seeking a 6-month final-year internship starting in April 2025 t
 
 ###  Research Internship: Embedding Heterogeneous Graphs For Cloud Services
 **Role:** Intern | **Organization:** Telecom SudParis
--Implemented various algorithms, including Relation Graph Convolution Network (R-GCN), Heterogeneous Graph Transformer (HGT), and Graph Attention Transformer (GAT).
--Performing heterogeneous graph data augmentation using graphon.
+- Implemented various algorithms, including Relation Graph Convolution Network (R-GCN), Heterogeneous Graph Transformer (HGT), and Graph Attention Transformer (GAT).
+- Performing heterogeneous graph data augmentation using graphon.
 
 ### <img src="https://github.com/user-attachments/assets/dabd8c71-5706-470b-92c4-1d87fc9ca820" alt="Groundwater Level Icon" width="32" height="32" /> Hackathon Challenge: Predicting Ground Water Level
 
@@ -49,15 +49,16 @@ A collaborative effort to develop a predictive model for groundwater levels, add
 
 ### <img src="https://github.com/user-attachments/assets/fa4b0055-0b44-418c-80d4-ecbc0ef02c14" alt="Insurance Premium Icon" width="32" height="32" /> Kaggle Challenge: Predicting Insurance Premium Amount
 **Rank:** 51/2390
--A project aimed at predicting insurance premium amounts by leveraging advanced machine learning models and embedding techniques.
+- A project aimed at predicting insurance premium amounts by leveraging advanced machine learning models and embedding techniques.
 
 ### <img src="https://github.com/user-attachments/assets/3782400e-16b5-479a-8447-91aaad9819d0" alt="Credit Default Portfolio Icon" width="32" height="32" /> Kaggle Challenge: Predicting Credit Default Portfolios
 Participation in a Kaggle competition focused on predicting credit default risks for financial portfolios.
--Performed a data Analysis and statistical tests to determine which variables are more explicative.
--Train multiple classification models: **XGBOOST**, **LighGBM**, **CatBoost** etc..
+- Performed a data Analysis and statistical tests to determine which variables are more explicative.
+- Train multiple classification models: **XGBOOST**, **LighGBM**, **CatBoost** etc..
 
 ### <img src="https://github.com/user-attachments/assets/fbc920e1-2447-4cd7-896f-6c3f59c5a1e6" alt="Neural Graph Icon" width="32" height="32" /> Kaggle Challenge: Neural Graph Generation
-Participation in a Kaggle competition focusing on innovative approaches to graph generation.
+- Participation in a Kaggle competition focusing on innovative approaches to graph generation.
+  
 
 ### <img src="https://github.com/user-attachments/assets/d74d88bd-1eee-4a8f-80df-3fc0da2901a9" alt="Path Planning Icon" width="32" height="32" /> Path Planning with Graph Algorithms
 - Deploy OpenCv library in python to detect objects.
