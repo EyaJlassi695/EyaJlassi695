@@ -60,8 +60,8 @@ Participation in a Kaggle competition focused on predicting credit default risks
 Participation in a Kaggle competition focusing on innovative approaches to graph generation.
 
 ### <img src="https://github.com/user-attachments/assets/d74d88bd-1eee-4a8f-80df-3fc0da2901a9" alt="Path Planning Icon" width="32" height="32" /> Path Planning with Graph Algorithms
--Deploy OpenCv library in python to detect objects.
--Built an interactive app using C++ and Python to calculate optimal trajectories in obstacle-filled environments with Dijkstra’s Algorithm.
+- Deploy OpenCv library in python to detect objects.
+-  Built an interactive app using C++ and Python to calculate optimal trajectories in obstacle-filled environments with Dijkstra’s Algorithm.
 
 ---
 
