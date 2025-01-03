@@ -34,10 +34,10 @@ Currently, I am seeking a 6-month final-year internship starting in April 2025 t
 
 ## 📂 Featured Projects
 
-### ![Groundwater Level Icon](https://img.icons8.com/ios-filled/50/000000/water.png) Hackathon Challenge: Predicting Ground Water Level
+### ![Groundwater Level Icon](https://img.icons8.com/ios-filled/32/000000/line-chart.png) Hackathon Challenge: Predicting Ground Water Level
 A collaborative effort to develop a predictive model for groundwater levels, addressing environmental concerns and sustainable water resource management.
 
-### ![Insurance Icon](https://img.icons8.com/ios-filled/50/000000/insurance.png) Kaggle Challenge: Predicting Insurance Premium Amount
+### ![Insurance Icon](https://img.icons8.com/external-flat-juicy-fish/32/000000/external-insurance-financial-services-flat-flat-juicy-fish.png) Kaggle Challenge: Predicting Insurance Premium Amount
 A project aimed at predicting insurance premium amounts by leveraging advanced machine learning models and embedding techniques.
 
 ### ![Credit Portfolio Icon](https://img.icons8.com/ios-filled/50/000000/coins.png) Kaggle Challenge: Predicting Credit Default Portfolios
