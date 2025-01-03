@@ -8,6 +8,7 @@ I thrive on collaboration, adapting quickly to new environments, and bringing cr
 
 Currently, I am seeking a 6-month final-year internship starting in April 2025 to apply my expertise in Data Science to innovative projects. Additionally, I am an active Kaggle competitor, working hard to become an expert by tackling challenging data science problems and contributing to the community, being ranked among the top 2% in consecutive challenges.
 
+---
 
 ## 🚀 About Me
 
@@ -15,9 +16,18 @@ Currently, I am seeking a 6-month final-year internship starting in April 2025 t
 - 🌟 **Current Focus:** Working on projects related to different fields, from Large Scale ML problems, Time Series, and Deep Learning to Graph Neural Networks, NLP, and LLMs.
 - 💡 **Interests:** Exploring advanced topics in Data Science, Machine Learning, AI ethics, and building innovative side projects that combine creativity and technology.
 
+---
+
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Data Science Tools
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-004C99?style=flat&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-117733?style=flat&logo=seaborn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-32A350?style=flat&logo=nltk&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFC83D?style=flat&logo=huggingface&logoColor=white)
+
+### Tools
+![Gradio](https://img.shields.io/badge/-Gradio-3E86F4?style=flat&logo=gradio&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
