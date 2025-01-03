@@ -34,25 +34,27 @@ Currently, I am seeking a 6-month final-year internship starting in April 2025 t
 
 ## 📂 Featured Projects
 
-### ![Groundwater Level Icon](https://img.icons8.com/clouds/48/000000/water.png) Hackathon Challenge: Predicting Ground Water Level
+### ![Groundwater Level Icon](https://img.icons8.com/ios-filled/50/000000/water.png) Hackathon Challenge: Predicting Ground Water Level
 A collaborative effort to develop a predictive model for groundwater levels, addressing environmental concerns and sustainable water resource management.
 
-### ![Insurance Icon](https://img.icons8.com/dusk/48/000000/insurance.png) Kaggle Challenge: Predicting Insurance Premium Amount
+### ![Insurance Icon](https://img.icons8.com/ios-filled/50/000000/insurance.png) Kaggle Challenge: Predicting Insurance Premium Amount
 A project aimed at predicting insurance premium amounts by leveraging advanced machine learning models and embedding techniques.
 
-### ![Credit Portfolio Icon](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-credit-financial-flat-flat-juicy-fish.png) Kaggle Challenge: Predicting Credit Default Portfolios
+### ![Credit Portfolio Icon](https://img.icons8.com/ios-filled/50/000000/coins.png) Kaggle Challenge: Predicting Credit Default Portfolios
 Participation in a Kaggle competition focused on predicting credit default risks for financial portfolios.
 
-### ![Graph Icon](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-graph-miscellaneous-flat-flat-juicy-fish.png) Research Internship: Embedding and Augmenting Heterogeneous Graphs
+### ![Graph Icon](https://img.icons8.com/ios-filled/50/000000/line-chart.png) Research Internship: Embedding and Augmenting Heterogeneous Graphs
 Researching and implementing graph embedding and augmentation techniques to improve predictive analytics in complex datasets.
 
-### ![Neural Graph Icon](https://img.icons8.com/fluency/48/000000/network.png) Kaggle Challenge: Neural Graph Generation
+### ![Neural Graph Icon](https://img.icons8.com/ios-filled/50/000000/network.png) Kaggle Challenge: Neural Graph Generation
 Participation in a Kaggle competition focusing on innovative approaches to graph generation.
 
-### ![Path Planning Icon](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-path-planning-infrastructure-soft-fill-soft-fill-juicy-fish.png) Path Planning with Graph Algorithms
+### ![Path Planning Icon](https://img.icons8.com/ios-filled/50/000000/road.png) Path Planning with Graph Algorithms
 Built an interactive app using Streamlit and Python to calculate optimal trajectories in obstacle-filled environments with Dijkstra’s Algorithm.
 
 ---
+
+
 ## 🌟 Highlights
 
 - 🏆 **Hackathon Enthusiast:** Regular participant in hackathons to push boundaries and test creative solutions.
