@@ -84,8 +84,5 @@ Participation in a Kaggle competition focusing on innovative approaches to graph
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch if you'd like to collaborate. 😊
 
-## 🐍 Contribution Snake Game
-
-![Snake animation](https://github.com/EyaJlassi/EyaJlassi/blob/output/snake.svg)
 
 
