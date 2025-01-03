@@ -83,5 +83,8 @@ Participation in a Kaggle competition focusing on innovative approaches to graph
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch if you'd like to collaborate. 😊
-![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com?user=EyaJlassi&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)
+## 📊 GitHub Contributions
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=EyaJlassi&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=EyaJlassi&theme=radical)
 
